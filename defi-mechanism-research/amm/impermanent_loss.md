@@ -89,6 +89,6 @@ IL = (2 * sqrt(r)) / (1 + r) - 1
 
 ## Open Questions
 
-- Can dynamic range adjustment algorithms eliminate IL?
-- How do cross-protocol arbitrageurs affect IL distribution?
-- What role does IL play in overall DeFi ecosystem sustainability?
+- Can dynamic range adjustment algorithms eliminate IL? ([See concentrated liquidity](../amm/concentrated_liquidity.md))
+- How do cross-protocol arbitrageurs affect IL distribution? ([See arbitrage](../mev/arbitrage.md))
+- What role does IL play in overall DeFi ecosystem sustainability? ([See constant product](../amm/constant_product.md))

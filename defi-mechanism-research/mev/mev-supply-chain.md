@@ -98,6 +98,6 @@ The MEV supply chain describes the ecosystem of participants and infrastructure 
 
 ## Open Questions
 
-- How will the MEV supply chain evolve with Ethereum upgrades?
-- Can decentralized MEV solutions compete with centralized infrastructure?
-- What is the optimal distribution of MEV rewards across the supply chain?
+- How will the MEV supply chain evolve with Ethereum upgrades? ([See sandwich attack](../mev/sandwich-attack.md))
+- Can decentralized MEV solutions compete with centralized infrastructure? ([See arbitrage](../mev/arbitrage.md))
+- What is the optimal distribution of MEV rewards across the supply chain? ([See constant product](../amm/constant_product.md))

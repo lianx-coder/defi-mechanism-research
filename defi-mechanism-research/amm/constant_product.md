@@ -89,6 +89,6 @@ This represents the instantaneous price of token A in terms of token B.
 
 ## Open Questions
 
-- How can CPMMs be optimized for capital efficiency?
+- How can CPMMs be optimized for capital efficiency? ([See concentrated liquidity](../amm/concentrated_liquidity.md))
 - What are the limits of pure constant product models versus hybrid approaches?
-- How do external oracle integrations affect stability?
+- How do external oracle integrations affect stability? ([See oracle risk](../liquidation/oracle-risk.md))

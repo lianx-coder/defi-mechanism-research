@@ -91,6 +91,6 @@ Liquidation mechanisms are critical safety components in over-collateralized DeF
 
 ## Open Questions
 
-- Can liquidation mechanisms be designed to be more resilient during market stress?
-- How do different auction models perform in practice?
-- What is the optimal balance between liquidator incentives and protocol stability?
+- Can liquidation mechanisms be designed to be more resilient during market stress? ([See cascading liquidations](../liquidation/cascading-liquidations.md))
+- How do different auction models perform in practice? ([See interest rate model](../lending/interest-rate-model.md))
+- What is the optimal balance between liquidator incentives and protocol stability? ([See lending models](../lending/lending-models.md))

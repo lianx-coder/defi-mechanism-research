@@ -89,6 +89,6 @@ Liquidation risk is a fundamental concern in over-collateralized DeFi lending. I
 
 ## Open Questions
 
-- How can protocols better predict and prevent cascade liquidations?
-- What is the optimal balance between capital efficiency and liquidation safety?
-- Can decentralized liquidation mechanisms reduce market impact during crises?
+- How can protocols better predict and prevent cascade liquidations? ([See cascading liquidations](../liquidation/cascading-liquidations.md))
+- What is the optimal balance between capital efficiency and liquidation safety? ([See concentrated liquidity](../amm/concentrated_liquidity.md))
+- Can decentralized liquidation mechanisms reduce market impact during crises? ([See liquidation mechanism](../liquidation/liquidation-mechanism.md))

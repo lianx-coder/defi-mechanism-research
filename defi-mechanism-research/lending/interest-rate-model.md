@@ -100,6 +100,6 @@ else:
 
 ## Open Questions
 
-- How do dynamic rate models perform during black swan events?
+- How do dynamic rate models perform during black swan events? ([See cascading liquidations](../liquidation/cascading-liquidations.md))
 - Can AI/ML improve rate parameter optimization?
-- What is the optimal rate mechanism for multi-collateral, cross-chain lending?
+- What is the optimal rate mechanism for multi-collateral, cross-chain lending? ([See lending models](../lending/lending-models.md))

@@ -95,5 +95,5 @@ A sandwich attack is a form of Maximal Extractable Value (MEV) where an attacker
 ## Open Questions
 
 - How does the rise of private transaction relayers affect public MEV?
-- Can protocol-level MEV redistribution eliminate harmful attacks?
-- What role does transaction privacy play in DeFi security?
+- Can protocol-level MEV redistribution eliminate harmful attacks? ([See liquidation mechanism](../liquidation/liquidation-mechanism.md))
+- What role does transaction privacy play in DeFi security? ([See concentrated liquidity](../amm/concentrated_liquidity.md))

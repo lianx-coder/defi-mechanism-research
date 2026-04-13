@@ -78,6 +78,6 @@ This innovation dramatically improves capital efficiency by allowing LPs to focu
 
 ## Open Questions
 
-- How can automated position management be improved?
+- How can automated position management be improved? ([See impermanent loss](../amm/impermanent_loss.md))
 - What are optimal strategies for range selection?
-- How does concentrated liquidity affect market making competition?
+- How does concentrated liquidity affect market making competition? ([See arbitrage](../mev/arbitrage.md))

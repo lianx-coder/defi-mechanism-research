@@ -88,4 +88,4 @@ DeFi lending protocols enable permissionless borrowing using over-collateralized
 
 - How can peer-to-peer matching scale effectively?
 - What is the optimal balance between centralization and decentralization in lending pools?
-- How do cross-chain lending protocols handle oracle and liquidation complexity?
+- How do cross-chain lending protocols handle oracle and liquidation complexity? ([See oracle risk](../liquidation/oracle-risk.md), [liquidation mechanism](../liquidation/liquidation-mechanism.md))

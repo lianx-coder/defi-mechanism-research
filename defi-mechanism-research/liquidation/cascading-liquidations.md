@@ -98,6 +98,6 @@ Cascading liquidations occur when multiple positions are liquidated simultaneous
 
 ## Open Questions
 
-- How can protocols better predict and prevent cascade events?
+- How can protocols better predict and prevent cascade events? ([See oracle risk](../liquidation/oracle-risk.md))
 - What is the role of centralized intervention during DeFi cascades?
-- Can cross-protocol coordination reduce systemic cascade risk?
+- Can cross-protocol coordination reduce systemic cascade risk? ([See lending models](../lending/lending-models.md))

@@ -86,6 +86,6 @@ Buy on DEX A (lower price) -> Sell on DEX B (higher price)
 
 ## Open Questions
 
-- How does MEV arbitrage affect overall DeFi market efficiency?
-- Can decentralized block building reduce MEV extraction?
-- What is the social cost of competitive MEV extraction?
+- How does MEV arbitrage affect overall DeFi market efficiency? ([See constant product](../amm/constant_product.md))
+- Can decentralized block building reduce MEV extraction? ([See MEV supply chain](../mev/mev-supply-chain.md))
+- What is the social cost of competitive MEV extraction? ([See sandwich attack](../mev/sandwich-attack.md))

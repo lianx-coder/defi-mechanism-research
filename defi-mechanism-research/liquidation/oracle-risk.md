@@ -103,6 +103,6 @@ Oracle risk refers to the vulnerabilities and failure modes associated with pric
 
 ## Open Questions
 
-- How can protocols achieve true oracle resilience?
-- What is the role of decentralized oracle networks vs traditional price feeds?
-- Can protocols operate safely without oracle dependencies?
+- How can protocols achieve true oracle resilience? ([See cascading liquidations](../liquidation/cascading-liquidations.md))
+- What is the role of decentralized oracle networks vs traditional price feeds? ([See sandwich attack](../mev/sandwich-attack.md))
+- Can protocols operate safely without oracle dependencies? ([See lending models](../lending/lending-models.md))
